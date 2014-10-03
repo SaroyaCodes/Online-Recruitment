@@ -1,0 +1,14 @@
+SMAP
+AddJobDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddJobDetails.jsp
+AddJobDetails.jsp
+*L
+1,93:45
+94:138,3
+95,2:141
+97:143,3
+98,47:146
+*E
